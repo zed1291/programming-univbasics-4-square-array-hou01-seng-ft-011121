@@ -1,3 +1,4 @@
 def square_array(array)
-  # your code here
+  while true |index|
+    array[index]**
 end
